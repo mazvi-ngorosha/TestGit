@@ -1,1 +1,3 @@
 This is my first text file. I am going to use it to practice committing to Github through the terminal.
+
+I am making this to indicate a change in the git push in my git hub ;)
